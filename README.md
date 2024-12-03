@@ -35,8 +35,8 @@ temperatura aplicado al horno.
 
 Hemos creado los archivos `bc_galletas.clp` y `bh_galletas.clp` que contienen la base de conocimientos y la base de hechos respectivamente. 
 A continuación se muestra el resultado de la ejecución del programa en la que hemos seguido los siguientes pasos:
-- Cargar la base de conocimientos.
-- Cargar la base de hechos.
+- Cargar la base de conocimientos (`bc_galletas.clp`).
+- Cargar la base de hechos (`bh_galletas.clp`).
 - Hacemos un reset.
 - Ejecutamos el programa.
 - Mostramos los facts.
@@ -45,3 +45,4 @@ A continuación se muestra el resultado de la ejecución del programa en la que 
 ![Diagrama del proyecto](images/result.png)
 
 ### @Autor: José Sánchez Martínez"
+### @Autor: Alejandro Fernández Barrionuevo"
